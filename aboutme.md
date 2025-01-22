@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Wonderful committee is up to a lot of work.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Wonderful committee content....
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- we do this
+- and this
 
-What else do you need?
+more to add here 
 
-### My story
+### Next steps
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+More content and explain next steps 
